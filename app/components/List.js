@@ -19,9 +19,9 @@ module.exports = React.createClass({
       );
     }
     return (
-      <ul>
+      <ol type='1'>
         { listItems }
-      </ul>
+      </ol>
     );
   }
 
